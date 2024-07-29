@@ -1,3 +1,5 @@
+//ArrayList is better for storing and accessing data.
+
 import java.util.ArrayList;
 import java.util.Collections;
 

@@ -1,3 +1,5 @@
+//LinkedList is better for manipulating data.
+
 import java.util.LinkedList;
 
 public class Linked_List {
